@@ -92,3 +92,97 @@ Allow users to filter data by product information like category and subcategory 
 
 <img width="1198" alt="image 5" src="https://github.com/user-attachments/assets/b03b5681-19e8-4dd3-a16d-1bdf0827dc1d" />
 
+
+**Executive Summary**
+
+**Overview of Findings**
+
+This project successfully created two interactive Tableau dashboards to analyze sales and customer performance. Key findings include:
+
+* **Sales Growth:** Total sales for 2023 increased by 20.4% compared to the previous year.
+* **Customer Growth:** The number of customers grew by 8.6%, with a 10.8% increase in sales per customer.
+* **Product Performance:** Phones and Chairs were the top-performing product subcategories.
+* **Customer Behavior:** The majority of customers placed 1 or 2 orders, with a few high-profit customers driving significant revenue.
+
+**Insights Deep Dive**
+
+**Category 1: Overall Sales Performance**
+
+**Main Insight 1: Total Sales Growth**
+
+* **Finding:** Total sales for 2023 were $733K, showing a 20.4% increase compared to the previous year.
+* **Supporting Data:** The "Total Sales" tile displays $733K with "▲ 20.4% vs. PY."
+* **Implication:** This indicates strong sales growth and positive business performance in 2023.
+
+**Main Insight 2: Total Profit Growth**
+
+* **Finding:** Total profit for 2023 was $93K, showing a 14.2% increase compared to the previous year.
+* **Supporting Data:** The "Total Profit" tile displays $93K with "▲ 14.2% vs. PY."
+* **Implication:** This indicates healthy profit growth, though slightly lower than sales growth, suggesting potential areas for margin improvement.
+
+**Category 2: Sales and Profit Trends Over Time**
+
+**Main Insight 1: Monthly Sales and Profit Patterns**
+
+* **Finding:** Sales and profit show fluctuations throughout the year, with peaks and troughs indicating seasonal or event-driven variations.
+* **Supporting Data:** The small line charts under "Total Sales," "Total Profit," and "Total Quantity" show monthly trends.
+* **Implication:** This highlights the need for targeted strategies to capitalize on peak periods and mitigate low-performance months.
+
+**Main Insight 2: Highest and Lowest Performing Months**
+
+* **Finding:** The dashboard identifies the highest and lowest performing months for sales and profit.
+* **Supporting Data:** The "Highest Month" and "Lowest Month" sections are present but lack specific month information.
+* **Implication:** Understanding the best and worst months can help in optimizing resource allocation and promotional activities.
+
+**Category 3: Sales and Profits by Subcategory**
+
+**Main Insight 1: Top Performing Subcategories**
+
+* **Finding:** Phones and Chairs are among the top-performing subcategories in terms of sales.
+* **Supporting Data:** The "Sales & Profits by Subcategory" bar chart shows Phones and Chairs with the longest bars.
+* **Implication:** These subcategories are key revenue drivers and should be prioritized for growth and investment.
+
+**Main Insight 2: Profitability Variations**
+
+* **Finding:** Some subcategories show profit losses, indicating potential issues with cost management or pricing strategies.
+* **Supporting Data:** The "2023 Profit Loss" bar chart shows negative values for some subcategories.
+* **Implication:** These subcategories require further investigation to identify and address the root causes of losses.
+
+**Category 4: Customer Behavior and Profitability**
+
+**Main Insight 1: Customer Distribution by Orders**
+
+* **Finding:** The majority of customers placed 1 or 2 orders, with a significant drop in customers placing more orders.
+* **Supporting Data:** The "Customer Distribution by Nr. of Orders" bar chart shows high counts for 1 and 2 orders, then a steep decline.
+* **Implication:** This suggests a need to encourage repeat purchases and improve customer retention strategies.
+
+**Main Insight 2: Top Customers by Profit**
+
+* **Finding:** Raymond Buch is the top customer by profit, generating 7K profit from 14K sales over 16 months.
+* **Supporting Data:** The "Top 10 Customers by Profit (2023)" table lists Raymond Buch as the top customer.
+* **Implication:** Identifying and nurturing high-profit customers like Raymond Buch is crucial for maximizing revenue.
+
+**Recommendations**
+
+Based on the insights above, we recommend the following actions:
+
+* **Sales Strategy:** Focus on high-performing product subcategories and replicate their success across other categories.
+* **Customer Engagement:** Implement loyalty programs for high-frequency customers to enhance retention.
+* **Targeted Marketing:** Use customer segmentation to tailor marketing campaigns for top profit contributors.
+* **Data-Driven Decisions:** Leverage dynamic filters and interactive dashboards for real-time decision-making.
+* **Customer Retention:** Develop strategies to encourage repeat purchases and improve customer retention.
+* **Profit Optimization:** Analyze profitability in relation to sales volume to optimize pricing and product strategies.
+
+**Assumptions and Caveats**
+
+* **Assumption 1:** Data from internal databases is accurate and up-to-date.
+* **Assumption 2:** The data reflects only the specified time period and may not be applicable to other periods.
+* **Assumption 3:** External factors like market conditions may impact sales and customer behavior unpredictably.
+
+**Tools and Technologies Used**
+
+* **Data Visualization:** Tableau
+* **Data Sources:** Internal sales and customer databases
+* **Interactivity:** Dynamic filters, interactive charts, and maps
+
+
