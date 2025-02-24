@@ -10,11 +10,11 @@ Tableau: https://public.tableau.com/shared/NB72HWQTG?:display_count=n&:origin=vi
 
 <img width="1194" alt="image" src="https://github.com/user-attachments/assets/36eed6c7-7b2e-4054-b567-1a5700677636" />
 
-**Dashboard Purpose**
+### Dashboard Purpose
 
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
-**Key Requirements**
+### Key Requirements
 
 **KPI Overview**
 
@@ -44,11 +44,11 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 <img width="1204" alt="image 1" src="https://github.com/user-attachments/assets/f8455e60-26c1-4db6-969c-0a9f8aa3f192" />
 
-**Dashboard Purpose**
+### Dashboard Purpose
 
 The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 
-**Key Requirements**
+### Key Requirements
 
 **KPI Overview**
 
