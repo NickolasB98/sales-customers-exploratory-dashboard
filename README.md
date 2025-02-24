@@ -93,11 +93,9 @@ Allow users to filter data by product information like category and subcategory 
 <img width="1198" alt="image 5" src="https://github.com/user-attachments/assets/b03b5681-19e8-4dd3-a16d-1bdf0827dc1d" />
 
 
-**Executive Summary**
+## Overview of Findings
 
-**Overview of Findings**
-
-This project successfully created two interactive Tableau dashboards to analyze sales and customer performance. Key findings include:
+This project created two interactive Tableau dashboards to analyze sales and customer performance. Key findings include:
 
 * **Sales Growth:** Total sales for 2023 increased by 20.4% compared to the previous year.
 * **Customer Growth:** The number of customers grew by 8.6%, with a 10.8% increase in sales per customer.
