@@ -1,14 +1,14 @@
 # Sales & Customer Exploratory Dashboards (Tableau)
 
-Skills: Tableau (https://www.notion.so/Tableau-174b1a7e4bd881a1a166d6965fd85398?pvs=21), Data Cleaning (https://www.notion.so/Data-Cleaning-174b1a7e4bd88157b411c4201457dab5?pvs=21), Data Analytics (https://www.notion.so/Data-Analytics-174b1a7e4bd881899a5aecc9dca821cc?pvs=21), Data Visualization (https://www.notion.so/Data-Visualization-174b1a7e4bd88117b19ee324785bfe1b?pvs=21), Data Modeling (https://www.notion.so/Data-Modeling-174b1a7e4bd880c39a53da3d6d5277e4?pvs=21)
-Short Description: This project focuses on creating two interactive Tableau dashboards to analyze sales and customer performance for stakeholders, including sales managers and executives. The Sales Dashboard highlights year-over-year sales trends, product comparisons, and weekly sales insights, while the Customer Dashboard provides an overview of customer behavior, trends, and top contributors to company profits. Both dashboards feature dynamic filters, interactivity, and data flexibility to support better decision-making and stakeholder engagement.
+## Short Description
+This project focuses on creating two interactive Tableau dashboards to analyze sales and customer performance for stakeholders, including sales managers and executives. The Sales Dashboard highlights year-over-year sales trends, product comparisons, and weekly sales insights, while the Customer Dashboard provides an overview of customer behavior, trends, and top contributors to company profits. Both dashboards feature dynamic filters, interactivity, and data flexibility to support better decision-making and stakeholder engagement.
 Tableau: https://public.tableau.com/shared/NB72HWQTG?:display_count=n&:origin=viz_share_link
 
 # **Project Overview**
 
 ## **Sales Dashboard | Requirements**
 
-![image.png](Sales%20&%20Customer%20Exploratory%20Dashboards%20(Tableau)%20174b1a7e4bd881dd9d66c0f8dd231862/image.png)
+<img width="1194" alt="image" src="https://github.com/user-attachments/assets/36eed6c7-7b2e-4054-b567-1a5700677636" />
 
 **Dashboard Purpose**
 
@@ -42,7 +42,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 ## **Customer Dashboard | Requirements**
 
-![image.png](Sales%20&%20Customer%20Exploratory%20Dashboards%20(Tableau)%20174b1a7e4bd881dd9d66c0f8dd231862/image%201.png)
+<img width="1204" alt="image 1" src="https://github.com/user-attachments/assets/f8455e60-26c1-4db6-969c-0a9f8aa3f192" />
 
 **Dashboard Purpose**
 
@@ -76,18 +76,19 @@ Represent the distribution of customers based on the number of orders they have 
 
 – The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
 
-![image.png](Sales%20&%20Customer%20Exploratory%20Dashboards%20(Tableau)%20174b1a7e4bd881dd9d66c0f8dd231862/image%202.png)
+<img width="1196" alt="image 2" src="https://github.com/user-attachments/assets/3f68edf3-49f9-4c7e-8cb1-39038fcef255" />
 
 – Provide users with the ability to navigate between the dashboards easily.
 
-![image.png](Sales%20&%20Customer%20Exploratory%20Dashboards%20(Tableau)%20174b1a7e4bd881dd9d66c0f8dd231862/image%203.png)
+<img width="245" alt="image 3" src="https://github.com/user-attachments/assets/80e58a06-8e12-4482-8114-465c99a96173" />
 
 – Make the charts and graphs interactive, enabling users to filter data using the charts.
 
-![image.png](Sales%20&%20Customer%20Exploratory%20Dashboards%20(Tableau)%20174b1a7e4bd881dd9d66c0f8dd231862/image%204.png)
+<img width="1194" alt="image 4" src="https://github.com/user-attachments/assets/41fcccbd-0073-4d73-a6c5-f622a5895ec6" />
 
 **Data Filters**
 
 Allow users to filter data by product information like category and subcategory and by location information like region, and state (Choose states from a **Map** that replaces a Text Filter)
 
-![image.png](Sales%20&%20Customer%20Exploratory%20Dashboards%20(Tableau)%20174b1a7e4bd881dd9d66c0f8dd231862/image%205.png)
+<img width="1198" alt="image 5" src="https://github.com/user-attachments/assets/b03b5681-19e8-4dd3-a16d-1bdf0827dc1d" />
+
