@@ -160,7 +160,7 @@ This project created two interactive Tableau dashboards to analyze sales and cus
 * **Supporting Data:** The "Top 10 Customers by Profit (2023)" table lists Raymond Buch as the top customer.
 * **Implication:** Identifying and nurturing high-profit customers like Raymond Buch is crucial for maximizing revenue.
 
-**Recommendations**
+### Recommendations
 
 Based on the insights above, we recommend the following actions:
 
@@ -171,13 +171,13 @@ Based on the insights above, we recommend the following actions:
 * **Customer Retention:** Develop strategies to encourage repeat purchases and improve customer retention.
 * **Profit Optimization:** Analyze profitability in relation to sales volume to optimize pricing and product strategies.
 
-**Assumptions and Caveats**
+### Assumptions and Caveats
 
 * **Assumption 1:** Data from internal databases is accurate and up-to-date.
 * **Assumption 2:** The data reflects only the specified time period and may not be applicable to other periods.
 * **Assumption 3:** External factors like market conditions may impact sales and customer behavior unpredictably.
 
-**Tools and Technologies Used**
+### Tools and Technologies Used
 
 * **Data Visualization:** Tableau
 * **Data Sources:** Internal sales and customer databases
