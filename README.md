@@ -2,7 +2,8 @@
 
 ## Short Description
 This project focuses on creating two interactive Tableau dashboards to analyze sales and customer performance for stakeholders, including sales managers and executives. The Sales Dashboard highlights year-over-year sales trends, product comparisons, and weekly sales insights, while the Customer Dashboard provides an overview of customer behavior, trends, and top contributors to company profits. Both dashboards feature dynamic filters, interactivity, and data flexibility to support better decision-making and stakeholder engagement.
-Tableau: https://public.tableau.com/shared/NB72HWQTG?:display_count=n&:origin=viz_share_link
+
+**Tableau Link:** https://public.tableau.com/shared/NB72HWQTG?:display_count=n&:origin=viz_share_link
 
 # **Project Overview**
 
